@@ -1,5 +1,5 @@
-# Capstone
-# Model -1
+# Capstone Project
+# Model -1 (Baseline Linear Model)
 
 # Step1-- Data Preprocessing
 1> Creating array of DataFrames to store data of 14 different locations separately.
@@ -36,7 +36,7 @@
 
 
 
-# Model -2
+# Model -2 (Demand Based Price Function)
 
 # Step 1-- Data Preprocessing
 1>Creating array of dataframes which contains data for all 14 different locations. 
